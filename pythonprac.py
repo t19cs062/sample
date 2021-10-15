@@ -13,3 +13,7 @@ elif (B-A == 2):
     print("A ",A," B ",B," A win")
 elif (A==B):
     print("A ",A," B ",B," Draw")
+
+
+#kousin
+print("hoge")
